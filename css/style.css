@@ -1,4 +1,78 @@
-body {
-  background-color: aqua;
-  color: #fff;
+.html {
+  height: 100%;
+  width: 100%;
+}
+.body {
+  height: 100%;
+  width: 100%;
+}
+
+style {
+  list-style: none;
+}
+.header {
+  display: flex;
+  width: 100%;
+  height: 80px;
+  justify-content: space-between;
+
+  background-color: aliceblue;
+}
+.logo {
+  color: blue;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.li1 {
+  display: flex;
+  justify-content: space-between;
+}
+.nazvanie {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10px;
+  color: black;
+}
+.baby {
+  padding-left: 10px;
+  color: black;
+}
+.dady {
+  padding-left: 10px;
+  color: black;
+}
+.dady1 {
+  color: black;
+}
+ul {
+  list-style: none;
+}
+.box {
+  /* Bg */
+
+  position: absolute;
+  width: 1600px;
+  height: 600px;
+  left: 0px;
+  top: 80px;
+
+  background: #2f303a;
+}
+.text {
+  color: red;
+}
+.logotip {
+  height: 31px;
+  width: 145px;
+  left: 215px;
+}
+.img {
+  justify-content: space-between;
+  display: flex;
+}
+.adress {
+  color: black;
 }
